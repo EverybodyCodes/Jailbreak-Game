@@ -46,14 +46,21 @@ Click the build & run play button (shortcut) to start the game running!
 
 <br/>
 
-<img src="./"
+<img src="jailbreak-initial-screenshot.png" />
 
+<br/>
 
+#### 4) How To Contribute
+Join the [discord group](https://discord.gg/E6MzhKr2) and ask what you should work on!
+
+Feel free to open issues if you have questions or fine bugs.
+
+<br/>
 
 Please make branches with the naming convention : `feature/blah-blah`
 
 Please open pull requests to merge your feature branch in the `develop` branch.
 
 
-
+<br/>
  
